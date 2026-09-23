@@ -1,0 +1,6 @@
+﻿site_name: 借金・絶望脱出ナビ
+site_description: 債務整理・ファクタリング・探偵（浮気調査）
+theme:
+  name: material
+  palette:
+    primary: red
